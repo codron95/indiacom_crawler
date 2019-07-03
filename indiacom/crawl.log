@@ -1,0 +1,327 @@
+
+INFO:crawler_units:Page count for this keyword is: 1
+INFO:crawler_units:Crawling for alphabet: A, keyword: A-Flex Nitrile Rubber, page_no: 1
+INFO:entities:Crawling 1 entry on this page
+INFO:crawler_units:Page count for this keyword is: 1
+INFO:crawler_units:Crawling for alphabet: A, keyword: A.C. Generators Rewinding, page_no: 1
+INFO:entities:Crawling 1 entry on this page
+INFO:crawler_units:Page count for this keyword is: 1
+INFO:crawler_units:Crawling for alphabet: A, keyword: A.C. Motors Rewinding, page_no: 1
+INFO:entities:Crawling 1 entry on this page
+WARNING:urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6fb5844990>: Failed to establish a new connection: [Errno 111] Connection refused',)': /session/7d19efb5c2374864bf5ef8f870b78c3e/element/0.23166775765016157-1275/elements
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6fb5222910>: Failed to establish a new connection: [Errno 111] Connection refused',)': /session/7d19efb5c2374864bf5ef8f870b78c3e/element/0.23166775765016157-1275/elements
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6fb5222a10>: Failed to establish a new connection: [Errno 111] Connection refused',)': /session/7d19efb5c2374864bf5ef8f870b78c3e/element/0.23166775765016157-1275/elements
+WARNING:urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4e70d87a10>: Failed to establish a new connection: [Errno 111] Connection refused',)': /session/b39f7cadefd17168ffbdebc69c3c6e87/element/0.25819354702826347-1275/elements
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4e70769990>: Failed to establish a new connection: [Errno 111] Connection refused',)': /session/b39f7cadefd17168ffbdebc69c3c6e87/element/0.25819354702826347-1275/elements
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4e70769a90>: Failed to establish a new connection: [Errno 111] Connection refused',)': /session/b39f7cadefd17168ffbdebc69c3c6e87/element/0.25819354702826347-1275/elements
+INFO:crawler_units:Page count for this keyword is: 1
+INFO:crawler_units:Crawling for alphabet: A, keyword: A-Flex Nitrile Rubber, page_no: 1
+INFO:entities:Crawling 1 entry on this page
+INFO:crawler_units:Page count for this keyword is: 1
+INFO:crawler_units:Crawling for alphabet: A, keyword: A.C. Generators Rewinding, page_no: 1
+INFO:entities:Crawling 1 entry on this page
+INFO:crawler_units:Page count for this keyword is: 1
+INFO:crawler_units:Crawling for alphabet: A, keyword: A.C. Motors Rewinding, page_no: 1
+INFO:entities:Crawling 1 entry on this page
+INFO:entities:Crawling 2 entry on this page
+INFO:crawler_units:Page count for this keyword is: 1
+INFO:crawler_units:Crawling for alphabet: A, keyword: A.C. Tig Welding Sets, page_no: 1
+INFO:entities:Crawling 1 entry on this page
+INFO:crawler_units:Page count for this keyword is: 1
+INFO:crawler_units:Crawling for alphabet: A, keyword: A/C Ambulance, page_no: 1
+INFO:entities:Crawling 1 entry on this page
+INFO:crawler_units:Page count for this keyword is: 1
+INFO:crawler_units:Crawling for alphabet: A, keyword: Abacus Academy, page_no: 1
+INFO:entities:Crawling 1 entry on this page
+INFO:crawler_units:Page count for this keyword is: 8
+INFO:crawler_units:Crawling for alphabet: A, keyword: Abacus and Mental Arithmetic Coaching, page_no: 1
+INFO:entities:Crawling 1 entry on this page
+INFO:entities:Crawling 2 entry on this page
+INFO:entities:Crawling 3 entry on this page
+INFO:entities:Crawling 4 entry on this page
+INFO:entities:Crawling 5 entry on this page
+INFO:crawler_units:Page count for this keyword is: 8
+INFO:crawler_units:Crawling for alphabet: A, keyword: Abacus and Mental Arithmetic Coaching, page_no: 1
+INFO:entities:Crawling 1 entry on this page
+INFO:entities:Crawling 2 entry on this page
+INFO:entities:Crawling 3 entry on this page
+INFO:crawler_units:Page count for this keyword is: 8
+INFO:crawler_units:Crawling for alphabet: A, keyword: Abacus and Mental Arithmetic Coaching, page_no: 1
+INFO:entities:Crawling 1 entry on this page
+INFO:entities:Crawling 2 entry on this page
+INFO:entities:Crawling 3 entry on this page
+INFO:entities:Crawling 4 entry on this page
+INFO:entities:Crawling 5 entry on this page
+INFO:entities:Crawling 6 entry on this page
+INFO:entities:Crawling 7 entry on this page
+INFO:entities:Crawling 8 entry on this page
+INFO:entities:Crawling 9 entry on this page
+INFO:entities:Crawling 10 entry on this page
+INFO:entities:Crawling 11 entry on this page
+INFO:entities:Crawling 12 entry on this page
+INFO:entities:Crawling 13 entry on this page
+INFO:entities:Crawling 14 entry on this page
+INFO:entities:Crawling 15 entry on this page
+INFO:entities:Crawling 16 entry on this page
+INFO:crawler_units:Page count for this keyword is: 8
+INFO:crawler_units:Crawling for alphabet: A, keyword: Abacus and Mental Arithmetic Coaching, page_no: 1
+INFO:crawler_units:Page count for this keyword is: 8
+INFO:crawler_units:Crawling for alphabet: A, keyword: Abacus and Mental Arithmetic Coaching, page_no: 1
+INFO:entities:Crawling 1 entry on this page
+INFO:entities:Crawling 2 entry on this page
+INFO:entities:Crawling 3 entry on this page
+INFO:entities:Crawling 4 entry on this page
+INFO:entities:Crawling 5 entry on this page
+INFO:entities:Crawling 6 entry on this page
+INFO:entities:Crawling 7 entry on this page
+INFO:entities:Crawling 8 entry on this page
+INFO:entities:Crawling 9 entry on this page
+INFO:entities:Crawling 10 entry on this page
+INFO:entities:Crawling 11 entry on this page
+INFO:entities:Crawling 12 entry on this page
+INFO:entities:Crawling 13 entry on this page
+INFO:entities:Crawling 14 entry on this page
+INFO:entities:Crawling 15 entry on this page
+INFO:entities:Crawling 16 entry on this page
+INFO:entities:Crawling 17 entry on this page
+INFO:entities:Crawling 18 entry on this page
+INFO:entities:Crawling 19 entry on this page
+INFO:entities:Crawling 20 entry on this page
+INFO:entities:Crawling 21 entry on this page
+INFO:entities:Crawling 22 entry on this page
+INFO:entities:Crawling 23 entry on this page
+INFO:entities:Crawling 24 entry on this page
+INFO:entities:Crawling 25 entry on this page
+INFO:entities:Crawling 26 entry on this page
+INFO:entities:Crawling 27 entry on this page
+INFO:entities:Crawling 28 entry on this page
+INFO:entities:Crawling 29 entry on this page
+INFO:entities:Crawling 30 entry on this page
+INFO:crawler_units:Crawling for alphabet: A, keyword: Abacus and Mental Arithmetic Coaching, page_no: 2
+INFO:entities:Crawling 1 entry on this page
+INFO:entities:Crawling 2 entry on this page
+INFO:entities:Crawling 3 entry on this page
+INFO:entities:Crawling 4 entry on this page
+INFO:entities:Crawling 5 entry on this page
+INFO:entities:Crawling 6 entry on this page
+INFO:entities:Crawling 7 entry on this page
+INFO:entities:Crawling 8 entry on this page
+INFO:entities:Crawling 9 entry on this page
+INFO:entities:Crawling 10 entry on this page
+INFO:entities:Crawling 11 entry on this page
+INFO:entities:Crawling 12 entry on this page
+INFO:entities:Crawling 13 entry on this page
+INFO:entities:Crawling 14 entry on this page
+INFO:entities:Crawling 15 entry on this page
+INFO:entities:Crawling 16 entry on this page
+INFO:entities:Crawling 17 entry on this page
+INFO:entities:Crawling 18 entry on this page
+INFO:entities:Crawling 19 entry on this page
+INFO:entities:Crawling 20 entry on this page
+INFO:entities:Crawling 21 entry on this page
+INFO:entities:Crawling 22 entry on this page
+INFO:entities:Crawling 23 entry on this page
+INFO:entities:Crawling 24 entry on this page
+INFO:entities:Crawling 25 entry on this page
+INFO:entities:Crawling 26 entry on this page
+INFO:entities:Crawling 27 entry on this page
+INFO:entities:Crawling 28 entry on this page
+INFO:entities:Crawling 29 entry on this page
+INFO:entities:Crawling 30 entry on this page
+INFO:crawler_units:Crawling for alphabet: A, keyword: Abacus and Mental Arithmetic Coaching, page_no: 3
+INFO:entities:Crawling 1 entry on this page
+INFO:entities:Crawling 2 entry on this page
+INFO:entities:Crawling 3 entry on this page
+INFO:entities:Crawling 4 entry on this page
+INFO:entities:Crawling 5 entry on this page
+INFO:entities:Crawling 6 entry on this page
+INFO:crawler_units:Page count for this keyword is: 8
+INFO:crawler_units:Crawling for alphabet: A, keyword: Abacus and Mental Arithmetic Coaching, page_no: 3
+INFO:entities:Crawling 1 entry on this page
+INFO:entities:Crawling 2 entry on this page
+INFO:entities:Crawling 3 entry on this page
+INFO:entities:Crawling 4 entry on this page
+INFO:entities:Crawling 5 entry on this page
+INFO:entities:Crawling 6 entry on this page
+INFO:entities:Crawling 7 entry on this page
+INFO:entities:Crawling 8 entry on this page
+INFO:entities:Crawling 9 entry on this page
+INFO:entities:Crawling 10 entry on this page
+INFO:entities:Crawling 11 entry on this page
+INFO:entities:Crawling 12 entry on this page
+INFO:entities:Crawling 13 entry on this page
+INFO:entities:Crawling 14 entry on this page
+INFO:entities:Crawling 15 entry on this page
+INFO:entities:Crawling 16 entry on this page
+INFO:entities:Crawling 17 entry on this page
+INFO:entities:Crawling 18 entry on this page
+INFO:entities:Crawling 19 entry on this page
+INFO:entities:Crawling 20 entry on this page
+INFO:entities:Crawling 21 entry on this page
+INFO:entities:Crawling 22 entry on this page
+INFO:entities:Crawling 23 entry on this page
+INFO:entities:Crawling 24 entry on this page
+INFO:entities:Crawling 25 entry on this page
+INFO:entities:Crawling 26 entry on this page
+INFO:entities:Crawling 27 entry on this page
+INFO:entities:Crawling 28 entry on this page
+INFO:entities:Crawling 29 entry on this page
+INFO:entities:Crawling 30 entry on this page
+INFO:crawler_units:Crawling for alphabet: A, keyword: Abacus and Mental Arithmetic Coaching, page_no: 4
+INFO:entities:Crawling 1 entry on this page
+INFO:entities:Crawling 2 entry on this page
+INFO:entities:Crawling 3 entry on this page
+INFO:entities:Crawling 4 entry on this page
+INFO:entities:Crawling 5 entry on this page
+INFO:entities:Crawling 6 entry on this page
+INFO:entities:Crawling 7 entry on this page
+INFO:entities:Crawling 8 entry on this page
+INFO:entities:Crawling 9 entry on this page
+INFO:entities:Crawling 10 entry on this page
+INFO:crawler_units:Page count for this keyword is: 8
+INFO:crawler_units:Crawling for alphabet: A, keyword: Abacus and Mental Arithmetic Coaching, page_no: 4
+INFO:entities:Crawling 1 entry on this page
+INFO:entities:Crawling 2 entry on this page
+INFO:entities:Crawling 3 entry on this page
+INFO:entities:Crawling 4 entry on this page
+INFO:entities:Crawling 5 entry on this page
+INFO:entities:Crawling 6 entry on this page
+INFO:entities:Crawling 7 entry on this page
+INFO:entities:Crawling 8 entry on this page
+INFO:entities:Crawling 9 entry on this page
+INFO:entities:Crawling 10 entry on this page
+INFO:entities:Crawling 11 entry on this page
+INFO:entities:Crawling 12 entry on this page
+INFO:entities:Crawling 13 entry on this page
+INFO:entities:Crawling 14 entry on this page
+INFO:entities:Crawling 15 entry on this page
+INFO:entities:Crawling 16 entry on this page
+INFO:entities:Crawling 17 entry on this page
+INFO:entities:Crawling 18 entry on this page
+INFO:entities:Crawling 19 entry on this page
+INFO:entities:Crawling 20 entry on this page
+INFO:entities:Crawling 21 entry on this page
+INFO:entities:Crawling 22 entry on this page
+INFO:entities:Crawling 23 entry on this page
+INFO:entities:Crawling 24 entry on this page
+INFO:entities:Crawling 25 entry on this page
+INFO:entities:Crawling 26 entry on this page
+INFO:entities:Crawling 27 entry on this page
+INFO:entities:Crawling 28 entry on this page
+INFO:entities:Crawling 29 entry on this page
+INFO:entities:Crawling 30 entry on this page
+INFO:crawler_units:Crawling for alphabet: A, keyword: Abacus and Mental Arithmetic Coaching, page_no: 5
+INFO:entities:Crawling 1 entry on this page
+INFO:entities:Crawling 2 entry on this page
+INFO:entities:Crawling 3 entry on this page
+INFO:entities:Crawling 4 entry on this page
+INFO:entities:Crawling 5 entry on this page
+INFO:entities:Crawling 6 entry on this page
+INFO:entities:Crawling 7 entry on this page
+INFO:entities:Crawling 8 entry on this page
+INFO:entities:Crawling 9 entry on this page
+INFO:entities:Crawling 10 entry on this page
+INFO:entities:Crawling 11 entry on this page
+INFO:entities:Crawling 12 entry on this page
+INFO:entities:Crawling 13 entry on this page
+INFO:entities:Crawling 14 entry on this page
+INFO:entities:Crawling 15 entry on this page
+INFO:entities:Crawling 16 entry on this page
+INFO:entities:Crawling 17 entry on this page
+INFO:entities:Crawling 18 entry on this page
+INFO:entities:Crawling 19 entry on this page
+INFO:entities:Crawling 20 entry on this page
+INFO:entities:Crawling 21 entry on this page
+INFO:entities:Crawling 22 entry on this page
+INFO:entities:Crawling 23 entry on this page
+INFO:entities:Crawling 24 entry on this page
+INFO:entities:Crawling 25 entry on this page
+INFO:entities:Crawling 26 entry on this page
+INFO:entities:Crawling 27 entry on this page
+INFO:entities:Crawling 28 entry on this page
+INFO:entities:Crawling 29 entry on this page
+INFO:entities:Crawling 30 entry on this page
+INFO:crawler_units:Crawling for alphabet: A, keyword: Abacus and Mental Arithmetic Coaching, page_no: 6
+INFO:entities:Crawling 1 entry on this page
+INFO:entities:Crawling 2 entry on this page
+INFO:entities:Crawling 3 entry on this page
+INFO:crawler_units:Page count for this keyword is: 8
+INFO:crawler_units:Crawling for alphabet: A, keyword: Abacus and Mental Arithmetic Coaching, page_no: 6
+INFO:entities:Crawling 1 entry on this page
+INFO:entities:Crawling 2 entry on this page
+INFO:entities:Crawling 3 entry on this page
+INFO:entities:Crawling 4 entry on this page
+INFO:entities:Crawling 5 entry on this page
+INFO:entities:Crawling 6 entry on this page
+INFO:entities:Crawling 7 entry on this page
+INFO:entities:Crawling 8 entry on this page
+INFO:entities:Crawling 9 entry on this page
+INFO:entities:Crawling 10 entry on this page
+INFO:entities:Crawling 11 entry on this page
+INFO:entities:Crawling 12 entry on this page
+INFO:entities:Crawling 13 entry on this page
+INFO:entities:Crawling 14 entry on this page
+INFO:entities:Crawling 15 entry on this page
+INFO:entities:Crawling 16 entry on this page
+INFO:entities:Crawling 17 entry on this page
+INFO:entities:Crawling 18 entry on this page
+INFO:entities:Crawling 19 entry on this page
+INFO:entities:Crawling 20 entry on this page
+INFO:entities:Crawling 21 entry on this page
+INFO:entities:Crawling 22 entry on this page
+INFO:entities:Crawling 23 entry on this page
+INFO:entities:Crawling 24 entry on this page
+INFO:entities:Crawling 25 entry on this page
+INFO:entities:Crawling 26 entry on this page
+INFO:entities:Crawling 27 entry on this page
+INFO:entities:Crawling 28 entry on this page
+INFO:crawler_units:Page count for this keyword is: 8
+INFO:crawler_units:Crawling for alphabet: A, keyword: Abacus and Mental Arithmetic Coaching, page_no: 6
+INFO:entities:Crawling 1 entry on this page
+INFO:entities:Crawling 2 entry on this page
+INFO:entities:Crawling 3 entry on this page
+INFO:entities:Crawling 4 entry on this page
+INFO:entities:Crawling 5 entry on this page
+INFO:entities:Crawling 6 entry on this page
+INFO:entities:Crawling 7 entry on this page
+INFO:crawler_units:Page count for this keyword is: 8
+INFO:crawler_units:Crawling for alphabet: A, keyword: Abacus and Mental Arithmetic Coaching, page_no: 6
+INFO:entities:Crawling 1 entry on this page
+INFO:entities:Crawling 2 entry on this page
+INFO:entities:Crawling 3 entry on this page
+INFO:entities:Crawling 4 entry on this page
+INFO:entities:Crawling 5 entry on this page
+INFO:entities:Crawling 6 entry on this page
+INFO:entities:Crawling 7 entry on this page
+INFO:entities:Crawling 8 entry on this page
+INFO:entities:Crawling 9 entry on this page
+INFO:entities:Crawling 10 entry on this page
+INFO:entities:Crawling 11 entry on this page
+INFO:entities:Crawling 12 entry on this page
+INFO:entities:Crawling 13 entry on this page
+INFO:entities:Crawling 14 entry on this page
+INFO:entities:Crawling 15 entry on this page
+INFO:entities:Crawling 16 entry on this page
+INFO:entities:Crawling 17 entry on this page
+INFO:entities:Crawling 18 entry on this page
+INFO:entities:Crawling 19 entry on this page
+INFO:entities:Crawling 20 entry on this page
+INFO:entities:Crawling 21 entry on this page
+INFO:entities:Crawling 22 entry on this page
+INFO:entities:Crawling 23 entry on this page
+INFO:entities:Crawling 24 entry on this page
+INFO:entities:Crawling 25 entry on this page
+INFO:entities:Crawling 26 entry on this page
+INFO:entities:Crawling 27 entry on this page
+INFO:entities:Crawling 28 entry on this page
+INFO:entities:Crawling 29 entry on this page
+INFO:entities:Crawling 30 entry on this page
+INFO:crawler_units:Crawling for alphabet: A, keyword: Abacus and Mental Arithmetic Coaching, page_no: 7
+INFO:entities:Crawling 1 entry on this page
+INFO:entities:Crawling 2 entry on this page
+INFO:crawler_units:Page count for this keyword is: 8
+INFO:crawler_units:Crawling for alphabet: A, keyword: Abacus and Mental Arithmetic Coaching, page_no: 7
+INFO:entities:Crawling 1 entry on this page
+INFO:entities:Crawling 2 entry on this page
+INFO:entities:Crawling 3 entry on this page
+INFO:entities:Crawling 4 entry on this page

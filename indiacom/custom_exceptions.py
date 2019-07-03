@@ -1,0 +1,2 @@
+class PageFetchException(Exception):
+    pass
